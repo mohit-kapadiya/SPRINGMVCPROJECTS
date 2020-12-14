@@ -17,7 +17,7 @@
         </div>
         <div class="card-body w-100 h-20 mx-auto">
             <div class="container mt-2">
-                <form method="post" action="">
+                <form method="post" action="process">
                     <div class="md-form form-group w-75 mx-auto">
                         <label for="exampleInputFirstName">First name<span style="color:red">*</span></label>
                         <input type="text" class="form-control" id="exampleInputFirstName"
